@@ -42,7 +42,7 @@ return(
         <Social href={"https://github.com"} icon={"logo-github"} />
         <Social href={"https://www.instagram.com/eo_rabaka/?hl=pt_BR"} icon={"logo-instagram"} />
         <Social href={"https://account.xbox.com/pt-BR/Profile?xr=shellnav&csrf=e39crNw6ZLZyVFLJzPclJly-0dQqmVargjOnSXnq174gzs3aqMEikUynUiXmE_zGR6ldA35na70eVzLwuVkxjDxOMZU1&wa=wsignin1.0"} icon={"logo-xbox"} />
-        <Social href={"#"} icon={"logo-"} />
+        <Social href={"https://www.tiktok.com/@eo_rabaka?lang=pt-BR"} icon={"logo-tiktok"} />
     </div>
     <Footer Link={"#"}>@RABAKA</Footer>
 </div>
